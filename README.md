@@ -1,7 +1,7 @@
 # Hi there, I'm Raj 👋 
 
 ### 🔎 ISTQB-FL Certified QA Professional & Systems Engineer
-I bring over 5 years of experience specializing in manual and AI-enhanced testing, bug hunting, and test strategy. Beyond quality assurance, I build local offline-first AI systems, self-hosted productivity dashboards, and explore hardware innovation.
+I bring over 6+ years of experience specializing in manual and AI-enhanced testing, bug hunting, and test strategy. Beyond quality assurance, I build local offline-first AI systems, self-hosted productivity dashboards, and explore hardware innovation.
 
 ---
 
